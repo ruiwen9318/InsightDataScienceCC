@@ -1,7 +1,7 @@
 # Project Title
 
-Insight Data Engineering - Coding Challenge
-Find the running median of transaction amount associated with the same CMTE_ID and ZIP_CODE.
+Insight Data Engineering - Coding Challenge ＜/br＞
+Find the running median of transaction amount associated with the same CMTE_ID and ZIP_CODE.＜/br＞
 Find the median of transaction amount associated with the same CMTE_ID and TRANSACTION_DT.
 
 # Getting Started
@@ -14,16 +14,16 @@ I test the getRunningMedian function with JUnit in Eclipse, and I put my unit te
 
 # Executing
 
-Simply replace the itcont.txt file in the input folder with your test file and run  "run.sh".
+Simply replace the itcont.txt file in the input folder with your test file and run  "run.sh".＜/br＞
 Please do not change the input file name.
 
 # Running the tests
 
-I created my own test cases and put them in the insight_testsuite folder.
+I created my own test cases and put them in the insight_testsuite folder.＜/br＞
 Simply run "run_tests.sh" under insight_testsuite folder.
 
 # Authors
-Name: Ruiwen Liang
-Email: ruiwenli@usc.edu
-Phone: 323-697-9683
+Name: Ruiwen Liang＜/br＞
+Email: ruiwenli@usc.edu＜/br＞
+Phone: 323-697-9683＜/br＞
 School: University of Southern California
